@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Roxydragon1
 - 👀 I’m interested in ... Game Design and Bot Programs
-- 🌱 I’m currently learning ... Very basic coding in python
-- 💞️ I’m looking to collaborate on ... If anyone wants to help me learn to make OSRS bots i'm available! :)
+- 🌱 I’m currently writing ... a 2D - 2.5D mobile RTSPvP game.
+- 💞️ I’m looking to collaborate on ... If anyone is looking at game development for a hobby and has skills in either graphic design or coding/modeling contact me and we can talk about some projects I have.
 - 📫 How to reach me ... Message me @ Roxydragon1@outlook.com
 
 <!---
